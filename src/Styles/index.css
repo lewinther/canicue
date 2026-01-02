@@ -1,0 +1,14 @@
+@import './tailwind.css';
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: #fff;
+  color: #222;
+}
+
+.dropdown-fit-modal {
+  max-width: 100%;
+  overflow-y: auto;
+  max-height: 40vh;
+}

@@ -1,0 +1,33 @@
+[
+    {
+        "id":"thisisarandomidtest123456one",
+        "role":"Behaviorist",
+        "name":"Behaviorist Behavioristson",
+        "email":"behaviorist@email.com",
+        "clientIds": [
+            "thisisarandomidtest123456two",
+            "thisisarandomidtest123456three"
+        ]
+    },
+    {
+        "id":"thisisarandomidtest123456two",
+        "role":"Client",
+        "name":"Jane Doe",
+        "email":"jane@email.com",
+        "behavioristId": "thisisarandomidtest123456one",
+        "dogIds": [
+            "63orh57l-5267-812s-hwci-g5va5y6f6374",
+            "74gse247-6823-247k-pjwh-g8sl1h4g5843"
+        ]
+    },
+    {
+        "id":"thisisarandomidtest123456three",
+        "name":"John Doe",
+        "role":"Client",
+        "email":"john@email.com",
+        "behavioristId": "thisisarandomidtest123456one",
+        "dogIds": [
+            "29abf65h-9587-366b-bgke-b1ca8w0b4l56"
+        ]
+    }
+]

@@ -1,0 +1,406 @@
+[
+    {
+        "id": "0a1f6c2e-1111-4e2d-9ba3-000001",
+        "clientId": "thisisarandomidtest123456two",
+        "dogId": "5c8d9e03-7b44-4f11-9a1b-666aa777bb88",
+        "behavioristId": "thisisarandomidtest123456one",
+        "planId": "a5b8d9e4-8c88-4f33-9a13-666bb777cc88",
+        "createdAt": 1766173954,
+        "metricLogs": [
+            {
+                "metric": {
+                "id": "m009",
+                "typeName": "Time",
+                "name": "Exploration time",
+                "description": "How long did your dog explore the new environment?",
+                "value": 420000
+                }
+            },
+            {
+                "metric": {
+                "id": "m010",
+                "typeName": "Stars",
+                "name": "Confidence rating",
+                "description": "Rate your dog’s confidence level during the outing.",
+                "value": 2
+                }
+            },
+            {
+                "metric": {
+                "id": "m007",
+                "typeName": "Toggle",
+                "name": "Relaxed response",
+                "description": "Did your dog remain relaxed during the approach?",
+                "value": false
+                }
+            },
+            {
+                "metric": {
+                "id": "m006",
+                "typeName": "Counter",
+                "name": "Recall attempts",
+                "description": "How many recall attempts were made?",
+                "value": 4
+                }
+            }
+        ]
+    },
+    {
+        "id": "0a1f6c2e-2222-4e2d-9ba3-000002",
+        "clientId": "thisisarandomidtest123456two",
+        "dogId": "5c8d9e03-7b44-4f11-9a1b-666aa777bb88",
+        "behavioristId": "thisisarandomidtest123456one",
+        "planId": "a5b8d9e4-8c88-4f33-9a13-666bb777cc88",
+        "createdAt": 1765986754,
+        "metricLogs": [
+            {
+                "metric": {
+                "id": "m009",
+                "typeName": "Time",
+                "name": "Exploration time",
+                "description": "How long did your dog explore the new environment?",
+                "value": 780000
+                }
+            },
+            {
+                "metric": {
+                "id": "m010",
+                "typeName": "Stars",
+                "name": "Confidence rating",
+                "description": "Rate your dog’s confidence level during the outing.",
+                "value": 3
+                }
+            },
+            {
+                "metric": {
+                "id": "m007",
+                "typeName": "Toggle",
+                "name": "Relaxed response",
+                "description": "Did your dog remain relaxed during the approach?",
+                "value": true
+                }
+            },
+            {
+                "metric": {
+                "id": "m006",
+                "typeName": "Counter",
+                "name": "Recall attempts",
+                "description": "How many recall attempts were made?",
+                "value": 3
+                }
+            }
+        ]
+    },
+    {
+        "id": "0a1f6c2e-3333-4e2d-9ba3-000003",
+        "clientId": "thisisarandomidtest123456two",
+        "dogId": "5c8d9e03-7b44-4f11-9a1b-666aa777bb88",
+        "behavioristId": "thisisarandomidtest123456one",
+        "planId": "a5b8d9e4-8c88-4f33-9a13-666bb777cc88",
+        "createdAt": 1765875154,
+        "metricLogs": [
+            {
+                "metric": {
+                "id": "m009",
+                "typeName": "Time",
+                "name": "Exploration time",
+                "description": "How long did your dog explore the new environment?",
+                "value": 1080000
+                }
+            },
+            {
+                "metric": {
+                "id": "m010",
+                "typeName": "Stars",
+                "name": "Confidence rating",
+                "description": "Rate your dog’s confidence level during the outing.",
+                "value": 4
+                }
+            },
+            {
+                "metric": {
+                "id": "m007",
+                "typeName": "Toggle",
+                "name": "Relaxed response",
+                "description": "Did your dog remain relaxed during the approach?",
+                "value": true
+                }
+            },
+            {
+                "metric": {
+                "id": "m006",
+                "typeName": "Counter",
+                "name": "Recall attempts",
+                "description": "How many recall attempts were made?",
+                "value": 2
+                }
+            }
+        ]
+    },
+    {
+        "id": "0a1f6c2e-4444-4e2d-9ba3-000004",
+        "clientId": "thisisarandomidtest123456two",
+        "dogId": "5c8d9e03-7b44-4f11-9a1b-666aa777bb88",
+        "behavioristId": "thisisarandomidtest123456one",
+        "planId": "a5b8d9e4-8c88-4f33-9a13-666bb777cc88",
+        "createdAt": 1765828354,
+        "metricLogs": [
+            {
+                "metric": {
+                "id": "m009",
+                "typeName": "Time",
+                "name": "Exploration time",
+                "description": "How long did your dog explore the new environment?",
+                "value": 1380000
+                }
+            },
+            {
+                "metric": {
+                "id": "m010",
+                "typeName": "Stars",
+                "name": "Confidence rating",
+                "description": "Rate your dog’s confidence level during the outing.",
+                "value": 5
+                }
+            },
+            {
+                "metric": {
+                "id": "m007",
+                "typeName": "Toggle",
+                "name": "Relaxed response",
+                "description": "Did your dog remain relaxed during the approach?",
+                "value": true
+                }
+            },
+            {
+                "metric": {
+                "id": "m006",
+                "typeName": "Counter",
+                "name": "Recall attempts",
+                "description": "How many recall attempts were made?",
+                "value": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "b81f1d2a-0001-4a27-b75d-100001",
+        "clientId": "thisisarandomidtest123456three",
+        "dogId": "63orh57l-5267-812s-hwci-g5va5y6f6374",
+        "behavioristId": "thisisarandomidtest123456one",
+        "planId": "e3f6b7c2-5a66-4dd2-9e91-444dd555ee66",
+        "createdAt": 1765741954,
+        "metricLogs": [
+            {
+                "metric": {
+                "id": "m005",
+                "typeName": "Counter",
+                "name": "Successful recalls",
+                "description": "How many successful recalls occurred?",
+                "value": 2
+                }
+            },
+            {
+                "metric": {
+                "id": "m006",
+                "typeName": "Counter",
+                "name": "Recall attempts",
+                "description": "How many recall attempts were made?",
+                "value": 5
+                }
+            },
+            {
+                "metric": {
+                "id": "m001",
+                "typeName": "Counter",
+                "name": "Pulling incidents",
+                "description": "How many times did your dog pull during the walk?",
+                "value": 4
+                }
+            },
+            {
+                "metric": {
+                "id": "m002",
+                "typeName": "Time",
+                "name": "Walk duration",
+                "description": "How long was the walk?",
+                "value": 4200000
+                }
+            },
+            {
+                "metric": {
+                "id": "m008",
+                "typeName": "Stars",
+                "name": "Stress level",
+                "description": "Rate your dog’s stress level during the exercise.",
+                "value": 4
+                }
+            }
+        ]
+    },
+    {
+        "id": "b81f1d2a-0002-4a27-b75d-100002",
+        "clientId": "thisisarandomidtest123456three",
+        "dogId": "63orh57l-5267-812s-hwci-g5va5y6f6374",
+        "behavioristId": "thisisarandomidtest123456one",
+        "planId": "e3f6b7c2-5a66-4dd2-9e91-444dd555ee66",
+        "createdAt": 1766193603,
+        "metricLogs": [
+            {
+                "metric": {
+                "id": "m005",
+                "typeName": "Counter",
+                "name": "Successful recalls",
+                "description": "How many successful recalls occurred?",
+                "value": 4
+                }
+            },
+            {
+                "metric": {
+                "id": "m006",
+                "typeName": "Counter",
+                "name": "Recall attempts",
+                "description": "How many recall attempts were made?",
+                "value": 6
+                }
+            },
+            {
+                "metric": {
+                "id": "m001",
+                "typeName": "Counter",
+                "name": "Pulling incidents",
+                "description": "How many times did your dog pull during the walk?",
+                "value": 3
+                }
+            },
+            {
+                "metric": {
+                "id": "m002",
+                "typeName": "Time",
+                "name": "Walk duration",
+                "description": "How long was the walk?",
+                "value": 4800000
+                }
+            },
+            {
+                "metric": {
+                "id": "m008",
+                "typeName": "Stars",
+                "name": "Stress level",
+                "description": "Rate your dog’s stress level during the exercise.",
+                "value": 3
+                }
+            }
+        ]
+    },
+    {
+        "id": "b81f1d2a-0003-4a27-b75d-100003",
+        "clientId": "thisisarandomidtest123456three",
+        "dogId": "63orh57l-5267-812s-hwci-g5va5y6f6374",
+        "behavioristId": "thisisarandomidtest123456one",
+        "planId": "e3f6b7c2-5a66-4dd2-9e91-444dd555ee66",
+        "createdAt": 1766366403,
+        "metricLogs": [
+            {
+                "metric": {
+                "id": "m005",
+                "typeName": "Counter",
+                "name": "Successful recalls",
+                "description": "How many successful recalls occurred?",
+                "value": 5
+                }
+            },
+            {
+                "metric": {
+                "id": "m006",
+                "typeName": "Counter",
+                "name": "Recall attempts",
+                "description": "How many recall attempts were made?",
+                "value": 6
+                }
+            },
+            {
+                "metric": {
+                "id": "m001",
+                "typeName": "Counter",
+                "name": "Pulling incidents",
+                "description": "How many times did your dog pull during the walk?",
+                "value": 2
+                }
+            },
+            {
+                "metric": {
+                "id": "m002",
+                "typeName": "Time",
+                "name": "Walk duration",
+                "description": "How long was the walk?",
+                "value": 5400000
+                }
+            },
+            {
+                "metric": {
+                "id": "m008",
+                "typeName": "Stars",
+                "name": "Stress level",
+                "description": "Rate your dog’s stress level during the exercise.",
+                "value": 2
+                }
+            }
+        ]
+    },
+    {
+        "id": "b81f1d2a-0004-4a27-b75d-100004",
+        "clientId": "thisisarandomidtest123456three",
+        "dogId": "63orh57l-5267-812s-hwci-g5va5y6f6374",
+        "behavioristId": "thisisarandomidtest123456one",
+        "planId": "e3f6b7c2-5a66-4dd2-9e91-444dd555ee66",
+        "createdAt": 1766366403,
+        "metricLogs": [
+            {
+                "metric": {
+                "id": "m005",
+                "typeName": "Counter",
+                "name": "Successful recalls",
+                "description": "How many successful recalls occurred?",
+                "value": 6
+                }
+            },
+            {
+                "metric": {
+                "id": "m006",
+                "typeName": "Counter",
+                "name": "Recall attempts",
+                "description": "How many recall attempts were made?",
+                "value": 7
+                }
+            },
+            {
+                "metric": {
+                "id": "m001",
+                "typeName": "Counter",
+                "name": "Pulling incidents",
+                "description": "How many times did your dog pull during the walk?",
+                "value": 1
+                }
+            },
+            {
+                "metric": {
+                "id": "m002",
+                "typeName": "Time",
+                "name": "Walk duration",
+                "description": "How long was the walk?",
+                "value": 6180000
+                }
+            },
+            {
+                "metric": {
+                "id": "m008",
+                "typeName": "Stars",
+                "name": "Stress level",
+                "description": "Rate your dog’s stress level during the exercise.",
+                "value": 2
+                }
+            }
+        ]
+    }
+]

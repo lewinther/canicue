@@ -1,0 +1,338 @@
+[
+    {
+        "behavioristId": "thisisarandomidtest123456one",
+        "clientId": "thisisarandomidtest123456two",
+        "dogId": "29abf65h-9587-366b-bgke-b1ca8w0b4l56",
+        "createdAt": 1765624842,
+        "id": "a8342f2c-44fe-4568-97b1-94dfb3553f4a",
+        "details": {
+            "name": "Reducing anxiety towards other dogs",
+            "description": "Through your descriptions and my observations of your dog, I have deduced that your dog has anxiety-related issues with other dogs. ",
+            "goal": "",
+            "theory": ""
+        },
+        "interventions": [
+            {
+                "id": "8836fc26-6ef6-49d9-adfd-3613e7ca2dbe",
+                "name": "Tell-training",
+                "description": "On at least one of your daily walks, I want you to bring high-value treats and use them generously when you or CuteDog spots another dog. ",
+                "metrics": [
+                    {
+                        "id": "ef0dcf47-e88a-4590-9f86-efa5aaec1dad",
+                        "typeName": "Counter",
+                        "name": "Encounters",
+                        "description": "Count the amount of encounters on your walk",
+                        "value": 0
+                    },
+                    {
+                        "id": "76950f4f-d585-48fe-bb36-33c1f599d828",
+                        "typeName": "Toggle",
+                        "name": "Reaction",
+                        "description": "Did he react by barking/lunging/pulling towards the trigger?",
+                        "value": false
+                    }
+                ]
+            },
+            {
+                "id": "c65b9036-ceb8-416d-9f94-73a0bbc01953",
+                "name": "Sniffaries",
+                "description": "At least a few times a week, go for  sniffary in a natural environment such as the beach or the woods, where you won't meet as many dogs. Let CuteDog sniff his way through the place - reinforce the behavior by occasionally dropping treats on the ground. ",
+                "metrics": [
+                    {
+                        "id": "0e8201e5-b3c1-4ac3-9a40-4762e5933d90",
+                        "typeName": "Stars",
+                        "name": "Rate the sniffary",
+                        "description": "How was your experience with the walk - one star is bad, five is exellent.",
+                        "value": 0
+                    },
+                    {
+                        "id": "19cdf63b-9552-426b-bf1e-b1ca0f0b4c83",
+                        "typeName": "Time",
+                        "name": "How long was the sniffary?",
+                        "description": "From you let CuteDog start sniffing, how long did he get to sniff?",
+                        "value": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "behavioristId": "thisisarandomidtest123456one",
+        "clientId": "thisisarandomidtest123456two",
+        "dogId": "7fd92c1e-1a3b-4e9c-9f21-9ab12e4c778a",
+        "createdAt": 1765931027,
+        "id": "b9f8c7d4-2e91-4f13-9a0d-1f4bcb8e4c21",
+        "details": {
+            "name": "Improving calm behavior when home alone",
+            "description": "Based on your reports and my assessment, your dog shows signs of stress and frustration when left alone. This plan focuses on increasing comfort, predictability, and relaxation during alone-time.",
+            "goal": "",
+            "theory": ""
+        },
+        "interventions": [
+            {
+                "id": "4f1a2e38-8e91-4c2a-a6b7-b53f98d11c44",
+                "name": "Graduated alone-time training",
+                "description": "Practice leaving your dog alone for very short periods and gradually increase the duration. Start with seconds and build up slowly, ensuring your dog remains calm at each step.",
+                "metrics": [
+                    {
+                        "id": "aa14cfc1-2b3f-47d9-bd7f-20b9e7d5f333",
+                        "typeName": "Time",
+                        "name": "Duration alone",
+                        "description": "How long was your dog left alone during this session?",
+                        "value": 0
+                    },
+                    {
+                        "id": "e7c12b6a-2f4e-4db5-a1e8-9b72df9d0d8f",
+                        "typeName": "Toggle",
+                        "name": "Calm behavior",
+                        "description": "Did your dog remain calm while you were away?",
+                        "value": false
+                    }
+                ]
+            },
+            {
+                "id": "d92a6b0f-5c2a-4e7a-9f2b-1c8f4e91b7ad",
+                "name": "Pre-departure enrichment",
+                "description": "Before leaving the house, provide a long-lasting enrichment activity such as a stuffed Kong or lick mat to help your dog associate departures with positive experiences.",
+                "metrics": [
+                    {
+                        "id": "2d6a9b44-6a8b-42d5-8c0a-5a9f9c8f3c44",
+                        "typeName": "Stars",
+                        "name": "Engagement level",
+                        "description": "How engaged was your dog with the enrichment item?",
+                        "value": 0
+                    },
+                    {
+                        "id": "5e31b79d-8a92-4c34-bf1e-3a9e2c5b6a7d",
+                        "typeName": "Counter",
+                        "name": "Sessions completed",
+                        "description": "How many times did you provide enrichment before leaving?",
+                        "value": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "behavioristId": "thisisarandomidtest123456one",
+        "clientId": "thisisarandomidtest123456three",
+        "dogId": "63orh57l-5267-812s-hwci-g5va5y6f6374",
+        "createdAt": 1766101201,
+        "id": "c1a4f7b2-8d3a-4c99-9b11-111aa222bb33",
+        "details": {
+            "name": "Reducing leash pulling on walks",
+            "description": "Your dog tends to pull strongly on the leash, especially in stimulating environments. This plan focuses on reinforcing loose-leash walking and reducing frustration.",
+            "goal": "",
+            "theory": ""
+        },
+        "interventions": [
+            {
+                "id": "a12b3c4d-1111-4eee-9999-aaaabbbbcccc",
+                "name": "Loose leash reinforcement",
+                "description": "Reward your dog frequently when the leash is slack. Stop moving forward if tension appears, and resume once the leash loosens.",
+                "metrics": [
+                    {
+                        "id": "m001",
+                        "typeName": "Counter",
+                        "name": "Pulling incidents",
+                        "description": "How many times did your dog pull during the walk?",
+                        "value": 0
+                    },
+                    {
+                        "id": "m002",
+                        "typeName": "Time",
+                        "name": "Walk duration",
+                        "description": "How long was the walk?",
+                        "value": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "behavioristId": "thisisarandomidtest123456one",
+        "clientId": "thisisarandomidtest123456three",
+        "dogId": "63orh57l-5267-812s-hwci-g5va5y6f6374",
+        "createdAt": 1766102202,
+        "id": "d2e5a6b1-9c44-41ef-a8c2-222cc333dd44",
+        "details": {
+            "name": "Reducing excessive barking at visitors",
+            "description": "Your dog becomes vocal and over-aroused when visitors enter the home. This plan aims to build calm alternative behaviors.",
+            "goal": "",
+            "theory": ""
+        },
+        "interventions": [
+            {
+                "id": "b2233445-aaaa-bbbb-cccc-ddddeeeeffff",
+                "name": "Settle on mat",
+                "description": "Train your dog to go to a designated mat when the doorbell rings. Reinforce calm behavior generously.",
+                "metrics": [
+                    {
+                        "id": "m003",
+                        "typeName": "Toggle",
+                        "name": "Settled on mat",
+                        "description": "Did your dog settle on the mat when the visitor arrived?",
+                        "value": false
+                    },
+                    {
+                        "id": "m004",
+                        "typeName": "Stars",
+                        "name": "Calmness rating",
+                        "description": "Rate your dog’s calmness during the visit.",
+                        "value": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "behavioristId": "thisisarandomidtest123456one",
+        "clientId": "thisisarandomidtest123456three",
+        "dogId": "63orh57l-5267-812s-hwci-g5va5y6f6374",
+        "createdAt": 1766103203,
+        "id": "e3f6b7c2-5a66-4dd2-9e91-444dd555ee66",
+        "details": {
+            "name": "Improving recall reliability",
+            "description": "Your dog struggles to return when called in distracting environments. This plan focuses on building a strong positive recall.",
+            "goal": "",
+            "theory": ""
+        },
+        "interventions": [
+            {
+                "id": "c3344556-1111-2222-3333-444455556666",
+                "name": "High-value recall games",
+                "description": "Practice recall using high-value rewards in low-distraction areas before gradually increasing difficulty.",
+                "metrics": [
+                    {
+                        "id": "m005",
+                        "typeName": "Counter",
+                        "name": "Successful recalls",
+                        "description": "How many successful recalls occurred?",
+                        "value": 0
+                    },
+                    {
+                        "id": "m006",
+                        "typeName": "Counter",
+                        "name": "Recall attempts",
+                        "description": "How many recall attempts were made?",
+                        "value": 0
+                    }
+                ]
+            },
+            {
+                "id": "a12b3c4d-1111-4eee-9999-aaaabbbbcccc",
+                "name": "Loose leash reinforcement",
+                "description": "Reward your dog frequently when the leash is slack. Stop moving forward if tension appears, and resume once the leash loosens.",
+                "metrics": [
+                    {
+                        "id": "m001",
+                        "typeName": "Counter",
+                        "name": "Pulling incidents",
+                        "description": "How many times did your dog pull during the walk?",
+                        "value": 0
+                    },
+                    {
+                        "id": "m002",
+                        "typeName": "Time",
+                        "name": "Walk duration",
+                        "description": "How long was the walk?",
+                        "value": 0
+                    },
+                    {
+                        "id": "m008",
+                        "typeName": "Stars",
+                        "name": "Stress level",
+                        "description": "Rate your dog’s stress level during the exercise.",
+                        "value": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "behavioristId": "thisisarandomidtest123456one",
+        "clientId": "thisisarandomidtest123456two",
+        "dogId": "4b6e7c92-8a31-4c22-8f7a-555ff666aa77",
+        "createdAt": 1766104204,
+        "id": "f4a7c8d3-7b77-4e21-8c02-555ee666ff77",
+        "details": {
+            "name": "Reducing food guarding behavior",
+            "description": "Your dog shows signs of stress when approached during meals. This plan focuses on desensitization and trust-building.",
+            "goal": "",
+            "theory": ""
+        },
+        "interventions": [
+            {
+                "id": "d4455667-aaaa-bbbb-cccc-777788889999",
+                "name": "Food bowl approach exercises",
+                "description": "Gradually approach your dog during meals and toss higher-value food to create positive associations.",
+                "metrics": [
+                    {
+                        "id": "m007",
+                        "typeName": "Toggle",
+                        "name": "Relaxed response",
+                        "description": "Did your dog remain relaxed during the approach?",
+                        "value": false
+                    },
+                    {
+                        "id": "m008",
+                        "typeName": "Stars",
+                        "name": "Stress level",
+                        "description": "Rate your dog’s stress level during the exercise.",
+                        "value": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "behavioristId": "thisisarandomidtest123456one",
+        "clientId": "thisisarandomidtest123456two",
+        "dogId": "5c8d9e03-7b44-4f11-9a1b-666aa777bb88",
+        "createdAt": 1766105205,
+        "id": "a5b8d9e4-8c88-4f33-9a13-666bb777cc88",
+        "details": {
+            "name": "Building confidence in new environments",
+            "description": "Your dog appears hesitant and cautious in unfamiliar places. This plan focuses on gradual exposure and confidence-building.",
+            "goal": "",
+            "theory": ""
+        },
+        "interventions": [
+            {
+                "id": "e5566778-1111-2222-3333-88889999aaaa",
+                "name": "Controlled exploration walks",
+                "description": "Visit new environments briefly and allow your dog to explore at their own pace while reinforcing curiosity.",
+                "metrics": [
+                    {
+                        "id": "m009",
+                        "typeName": "Time",
+                        "name": "Exploration time",
+                        "description": "How long did your dog explore the new environment?",
+                        "value": 0
+                    },
+                    {
+                        "id": "m010",
+                        "typeName": "Stars",
+                        "name": "Confidence rating",
+                        "description": "Rate your dog’s confidence level during the outing.",
+                        "value": 0
+                    },
+                    {
+                        "id": "m007",
+                        "typeName": "Toggle",
+                        "name": "Relaxed response",
+                        "description": "Did your dog remain relaxed during the approach?",
+                        "value": false
+                    },
+                    {
+                        "id": "m006",
+                        "typeName": "Counter",
+                        "name": "Recall attempts",
+                        "description": "How many recall attempts were made?",
+                        "value": 0
+                    }
+                ]
+            }
+        ]
+    }
+]
